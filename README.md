@@ -1,2 +1,2 @@
-# Let-s-code
-This repository is a collection of the problems and solutions from various platforms
+#Let's code
+Let's solve the problem statements in java using different approaches which will reach out to the solution. 
