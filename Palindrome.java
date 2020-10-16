@@ -1,3 +1,19 @@
+/*
+@author: komal <komalsupekar>
+Statement:Check whether String is palindrome or not.Palindromes are a numbers, phrases or words that reads same both the ways, backward as well as forward.
+Ex.1331-Palindrome
+123-Not Palindrome.
+
+Note:-String Contains Characters from '0' to '9'.
+
+Constraints:-
+1<=|s|<=100000
+
+Input:-String st
+
+Output:-Palindrome /Not palindrome
+
+*/
 import java.io.*; 
 import java.util.*; 
 
